@@ -1,0 +1,22 @@
+,RevenueByRegion,,,RevenueByProduct,,Sales_Rep,TopSalesRep
+Americas,572729,,Keyboard,1002199,,Unknown,936279
+APAC,1474970,,Laptop,1308368,,John Doe,1655396
+EMEA,1590768,,Monitor,1568371,,Jane Smith,754819
+Unknown,1221974,,Mouse,417391,,Ben Torres,852792
+Grand Total,4860441,,Server,564112,,Ana Cruz,661155
+,,,Grand Total,4860441,,Grand Total,4860441
+,RevenueByCountry,,,,,,
+Australia,559271,,,RevenueTrend,,,
+Germany,716282,,Jan,300405,,,
+Japan,846439,,Feb,558879,,,
+Philippines,1302918,,Mar,535876,,,
+Unknown,927491,,Apr,292936,,,
+USA,508040,,May,247689,,,
+Grand Total,4860441,,Jun,195351,,,
+,,,Jul,634547,,,
+,,,Aug,299408,,,
+,,,Sep,662849,,,
+,,,Oct,558029,,,
+,,,Nov,461256,,,
+,,,Dec,113216,,,
+,,,Grand Total,4860441,,,
